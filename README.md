@@ -20,7 +20,3 @@ Esse é um website de portfolio pessoal. Feito com HTML, CSS e JavaScript. Mostr
 - HTML5
 - CSS3
 - JavaScript (ES6)
-
-## Licença
-
-MIT License
